@@ -25,5 +25,4 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 7. BUilding the final model and Evaluating it.
 
 # Results
-
-
+The final model achieved an accuracy of 91% with a loss of 0.25. The Validation accuracy we achieved with model is 86%. The model is a good fit. Using the Augmentor and dealing with class imbalance helped the model to achieve better accuracy.
